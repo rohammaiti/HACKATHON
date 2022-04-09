@@ -13,5 +13,5 @@ If the amount entered is exact, the machine prints "Thank you for buying, here i
 Again, the query variable is used to take input as q and c for whether to quit or continue the purchase. If value entered is 'c' the flag variable run_vend is true and the
 program continues to run. If the value entered is other, the program breaks itself. And if the value entered is 'q' the run_vend is false and the program stops running.
 
-The idea of this entire project was proposed by Souvick Dutta and planned and coded by Roham Maiti and Sneha Khan. To work on this project,
+The idea of this entire project was proposed by Souvik Dutta and planned and coded by Roham Maiti and Sneha Khan. To work on this project,
 online pdfs(books) on Python was used and the idea about using f-strings was taken from Geeks for Geeks and other relevant websites.
