@@ -1,18 +1,17 @@
-AIRCRAFT RESERVATION SYSTEM
-This program is made using all the concepts of c++ like OOP, structures, multi-file handling etc. The program when runs, takes input in the format of number about various 
-activities like booking a ticket, cancelling a ticket, searching passeneger, changing seat, printing details of passengers, transactional details and quitting.
-The Airline.cpp file is used to run the program, while the main2.h file is used to contain the variables and various functions that are used to run the program. The main.cpp
-file is the main file in which the main programming part of the program is done. The programming of classes and various functions to run the program is written in this.
-While running the program we execute the Airline.cpp file.When we execute the Airline.cpp file the menu window appears.
-Press 1 to make reservation.
-Press 2 to make cancellation.
-Press 3 for searching passenger.
-Press 4 for changing reservation.
-Press 5 for viewing list of passenger and their details.
-Press 6 to view status report.
-Press 7 to quiet. To end the program permanently, press Ctrl+c after this.
+Europe Tours And Travels Website
 
-To make reservation, press 1. It will ask the user to enter the first and the last name. Then it will ask the passenger to enter their ID number then the phone number.
-After this, the user will be asked to enter their seat preffered seat number.If the seat is occupied, it will ask to change your prefference. Then it will ask you to enter 
-the choice of meal. After all this things are done a reservation number is given which is required during cancellation. AFter succesful booking, press any key to exit.
-After this you can make succesive bookings,cancelltions, searching operations etc from the main menu itself. You can also get your booking details.
+EUROPE TOURS AND TRAVELS/Project details and manual
+This is a website project built using HTML, CSS and Javascript. The website is based on travelling guide to some European cities. To run the website we need to execute the
+Main.html file which serves as the homepage. From there we can navigate to various webpages of the websites. CSS is used to control the image size, background colours and all
+while Javascript is used for handling some specific events inside the webpages like giving confirmation wether to go to new webpage or not, showing and changing text contents
+of the webpage. Use of modern HTML and CSS can be found, except some cases where old HTML elements were used in the webpages.
+
+How to run- Execute the Main.html file using a web browser. On running it, the homepage of the website will open. From there you acn select any cities that you want to
+travel. The details are included there. Two buttons named as "About us" and "Guidlines" are inlcuded for the users to get website related details and a general details
+for the tourists overall visting any place. Currently We have included information about London, Rome, Paris and Barcelona. More cities would be added later on with
+enhanced features. You could get details like weather, beast time to visit, hotels, tourist spots etc. 
+
+Biblography- The images were collected from google, the background colour combinations were taken from https://cssgradient.io/gradient-backgrounds/ . Information about
+new HTML tags and attributes along with CSS were taken from W3 Schools and other relevant internet sites. To use Javascript to control events many resources were used
+particularly, W3 Schools, GeeksForGeeks, Stack Overflow and other relevant websites. The details and information about the weather of various cities were collected from
+Weather Spark. The details about location, touring spots and hotels were collected using Google and other relevant websites.
