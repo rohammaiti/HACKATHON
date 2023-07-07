@@ -1,3 +1,1 @@
-This project idea,"Pollution in Indian Cities" was put forward by my teammate Sneha Khan and was jointly developed by us using Python programming language, Numpy, Matplotlib, Seaborn, Geopanda and Pandas library functions. Both the datasets were taken from Kaggle. The idea about using Geopandas for presenting a graphical map was taken from Stack Overflow. To run this project, all the files have to be downloaded first and can be run on Google Colab or Jupyter Notebook. This project was developed using Google Colab.
 
-The removing of null fields and data cleaning was handeled by my teammate Sneha Khan and myself, Roham Maiti has handeled the presentation portion of this project.
