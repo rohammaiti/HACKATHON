@@ -29,3 +29,5 @@ This is our hackathon project. It is a message encryptor-decryptor application m
 These functions work together to handle the encoding and decoding operations based on the user's mode selection and input values.
 
 In this program, there is a single key option. The user is prompted to enter a private key, which is used for both encoding and decoding operations. The key is a string that can be of any length, and it is used to perform calculations on the characters of the message for encoding and decoding. The key is applied in a cyclic manner, repeating its characters if the message is longer than the key.
+
+This project was jointly develpoed by me and my team member Sneha Khan. Relevant help was taken from Google while building this application. Some websites that we reffered are Geeks For Geeks, W3 Schools etc. 
