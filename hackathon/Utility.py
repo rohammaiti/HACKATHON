@@ -106,8 +106,8 @@ def virtual_mouse_control():
 # Main menu for user selection
 while True:
     print("Choose an option:")
-    print("1. AI Volume Control")
-    print("2. AI Mouse Control")
+    print("1. Virtual Volume Control")
+    print("2. Virtual Mouse Control")
     print("3. Exit")
 
     choice = input("Enter the option number: ")
