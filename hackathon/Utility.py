@@ -6,7 +6,7 @@ import pyautogui
 
 
 def control_volume():
-    print("Voice Control for Volume Selected")
+    print("Hand Control for Volume Selected")
 
     x1 = y1 = x2 = y2 = 0
     webcam = cv2.VideoCapture(0)
