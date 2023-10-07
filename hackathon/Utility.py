@@ -57,6 +57,7 @@ def control_volume():
     cv2.destroyAllWindows()
 
 def virtual_mouse_control():
+    print("Mouse Selected")
     webcam = cv2.VideoCapture(0)
     hand_detector = mp.solutions.hands.Hands()
     drawing_utils = mp.solutions.drawing_utils
